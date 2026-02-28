@@ -1,0 +1,1 @@
+{ "name": "chatdelidelo", "version": "1.0.0", "scripts": { "start": "vite" }, "devDependencies": { "vite": "latest" } }
